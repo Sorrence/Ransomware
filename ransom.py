@@ -2,7 +2,7 @@ from cryptography.fernet import Fernet
 import os
 import socket
 
-host = "write your ip address"   #Change this
+host = ""   #Change this
 port = 19114                #Change this
 
 def files_list():
